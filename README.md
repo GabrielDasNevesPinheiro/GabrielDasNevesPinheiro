@@ -3,8 +3,8 @@
 
 
 <div display="inline-block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasnevespinheiro&show_icons=true&theme=gotham"></img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldasnevespinheiro&show_icons=true&theme=gotham"></img>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasnevespinheiro&show_icons=true&theme=gotham"></img>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldasnevespinheiro&show_icons=true&theme=gotham"></img>
 </div>
 
 <h3 align="left">Linguagens e Ferramentas :computer: </h3>
