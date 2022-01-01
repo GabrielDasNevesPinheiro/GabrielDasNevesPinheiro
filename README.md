@@ -1,5 +1,5 @@
 
-## Olá, sou Gabriel das Neves 👋
+## Olá, sou Gabriel Pinheiro 👋
 
 
 <div display="inline-block">
