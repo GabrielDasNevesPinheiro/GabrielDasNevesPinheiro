@@ -1,13 +1,24 @@
+### Basic.info
+<ul>
+  <li> 👨‍🦲 Gabriel</li>
+  <li> ⏱️ 2003 </li>
+  <li> 🍻 Brasileiro</li>
+  <li> 🎮 Shadow of the colossus é o jogo.</li>
+</ul>
 
-## Olá, sou Gabriel Pinheiro 👋
+
+## Sobre meu git...
 
 
 <div display="inline-block">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldasnevespinheiro&theme=tokyonight" alt="mystreak"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldasnevespinheiro&show_icons=true&theme=gotham"></img>
+  <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldasnevespinheiro&theme=tokyonight" alt="mystreak"/>
+  
+</div>
+<div display="inline-block">
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=gabrieldasnevespinheiro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 </div>
 
-<h3 align="left">Linguagens e Ferramentas :computer: </h3>
+<h3 align="left">Stack :computer: </h3>
 <div display="inline-block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
