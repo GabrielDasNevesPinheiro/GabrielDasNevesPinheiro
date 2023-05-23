@@ -3,7 +3,7 @@
 
 
 <div display="inline-block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrieldasnevespinheiro&show_icons=true&theme=dracula"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldasnevespinheiro&theme=tokyonight" alt="mystreak"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldasnevespinheiro&show_icons=true&theme=gotham"></img>
 </div>
 
