@@ -2,7 +2,6 @@
 <ul>
   <li> 👨‍🦲 Gabriel</li>
   <li> ⏱️ 2003 </li>
-  <li> 🍻 Brasileiro</li>
   <li> 🎮 Shadow of the Colossus is the game.</li>
 </ul>
 
