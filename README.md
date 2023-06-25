@@ -3,11 +3,11 @@
   <li> 👨‍🦲 Gabriel</li>
   <li> ⏱️ 2003 </li>
   <li> 🍻 Brasileiro</li>
-  <li> 🎮 Shadow of the colossus é o jogo.</li>
+  <li> 🎮 Shadow of the Colossus is the game.</li>
 </ul>
 
 
-## Sobre meu git...
+## About my github...
 
 
 <div display="inline-block" align="center">
