@@ -2,7 +2,7 @@
 <ul>
   <li> 👨‍🦲 Gabriel</li>
   <li> ⏱️ 2003 </li>
-  <li> 🎮 Shadow of the Colossus is the game.</li>
+  <li> Can't stop me now.</li>
 </ul>
 
 
